@@ -3,7 +3,7 @@
     "id" : 1,
     "bundleId" : "com.tazmancoder.AppAlertExample",
     "title" : "App Alert",
-    "text" : "Warning: There is a bug in the application and our team is working quickly to resolve it."
+    "text" : "Warning: There is a bug in the application and our team is working quickly to resolve it.",
     "confirmLabel" : "OK"
   }
 ]
