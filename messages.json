@@ -5,8 +5,8 @@
     "title" : "App Alert",
     "text" : "Warning: There is a bug in this version of the application and our team is working quickly to resolve it.",
     "confirmLabel" : "OK",
-    "osVersions" : ["17.3", "17.4"],
-    "appVersions" : ["1.0.0"],
+    "osVersions" : ["0"],
+    "appVersions" : ["0"],
     "link" : {
       "title" : "More Information",
       "url" : "https://www.createchsol.com/"
