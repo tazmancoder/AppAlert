@@ -16,7 +16,7 @@
     "id" : 1,
     "bundleId" : "com.MDKPerryman.HymnTracker-SW15",
     "title" : "Fixed App Crash",
-    "text" : "Info: There was a bug found in the app. This caused the app to crash when entering a hymn number into a new program that was not found in any of the loaded catalogs. Our team has found this bug and squashed it. Thank you for your patience and we apologize for any inconvenience this has caused you.",
+    "text" : "We have found and fixed a bug found in the app. This bug caused the app to crash when entering a hymn number into a new program that was not found in any of the loaded catalogs. Thank you for your patience and we apologize for any inconvenience this has caused you.",
     "confirmLabel" : "OK",
     "link" : {
       "title" : "App Store Page",
