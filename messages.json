@@ -13,10 +13,10 @@
     }
   },
   {
-    "id" : 3,
+    "id" : 4,
     "bundleId" : "com.MDKPerryman.HymnTracker-SW15",
     "title" : "Fixed App Crash",
-    "text" : "We found and fixed a bug in the app. This bug caused the app to crash when entering a hymn number that is not found in any of the loaded catalogs while creating or editing a program. Thank you for your patience and we apologize for any inconvenience this has caused you.",
+    "text" : "We'd like to thank you for using HymnTracker. There are some changes coming to the hymn books starting next month and rolling out over the next few years. So, stay tuned for updates to the app.",
     "confirmLabel" : "OK",
     "link" : {
       "title" : "App Store Page",
