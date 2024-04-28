@@ -22,5 +22,16 @@
       "title" : "App Store Page",
       "url" : "https://apps.apple.com/us/developer/mark-perryman/id1553394535"
     }    
+  },
+  {
+    "id" : 1,
+    "bundleId" : "com.tazmancoder.EventPlanner",
+    "title" : "New App",
+    "text" : "Thanks for downloading SNAP-EventPlanner. If you have any issues please don't hesitate to let us know.",
+    "confirmLabel" : "OK",
+    "link" : {
+      "title" : "App Store Page",
+      "url" : "https://apps.apple.com/us/developer/mark-perryman/id1553394535"
+    }    
   }
 ]
