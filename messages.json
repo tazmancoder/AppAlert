@@ -25,8 +25,8 @@
   },
   {
     "id" : 1,
-    "bundleId" : "com.tazmancoder.EventPlanner",
-    "title" : "New App",
+    "bundleId" : "com.tazmancoder.EventPlanner-SD18",
+    "title" : "SNAP Events",
     "text" : "Thanks for downloading SNAP-EventPlanner. If you have any issues please don't hesitate to let us know.",
     "confirmLabel" : "OK",
     "link" : {
