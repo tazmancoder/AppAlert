@@ -25,9 +25,9 @@
   },
   {
     "id" : 1,
-    "bundleId" : "com.tazmancoder.EventPlanner-SD18",
+    "bundleId" : "com.tazmancoder.EventTracker-SUI24",
     "title" : "Event Planner",
-    "text" : "Welcome to Event Planner, where organizing your most cherished events becomes effortless. Whether it's birthdays, anniversaries, or special gatherings, our app is here to simplify the process. We're thrilled you've chosen us to be a part of your event planning journey. Should you encounter any questions or need assistance, don't hesitate to reach out. Let's make every moment memorable, together!",
+    "text" : "Welcome to Event Tracker, where organizing your most cherished events becomes effortless. Whether it's birthdays, anniversaries, or special gatherings, our app is here to simplify the process. We're thrilled you've chosen us to be a part of your event planning journey. Should you encounter any questions or need assistance, don't hesitate to reach out. Let's make every moment memorable, together!",
     "confirmLabel" : "OK",
     "link" : {
       "title" : "App Store Page",
