@@ -33,5 +33,16 @@
       "title" : "App Store Page",
       "url" : "https://apps.apple.com/us/developer/mark-perryman/id1553394535"
     }    
+  },
+  {
+    "id" : 3,
+    "bundleId" : "com.tazmancoder.MyHomeInventory",
+    "title" : "Home Inventory",
+    "text" : "Welcome to Home Inventory, where keeping track of your stuff is easier than ever.",
+    "confirmLabel" : "OK",
+    "link" : {
+      "title" : "App Store Page",
+      "url" : "https://apps.apple.com/us/developer/mark-perryman/id1553394535"
+    }    
   }
 ]
