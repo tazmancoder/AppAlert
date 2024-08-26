@@ -44,5 +44,16 @@
       "title" : "App Store Page",
       "url" : "https://apps.apple.com/us/developer/mark-perryman/id1553394535"
     }    
+  },
+  {
+    "id" : 5,
+    "bundleId" : "com.tazmancoder.HomeGuard-SD24",
+    "title" : "Home Guard",
+    "text" : "Welcome to Home Guard, where keeping track of your stuff is easier than ever.",
+    "confirmLabel" : "OK",
+    "link" : {
+      "title" : "App Store Page",
+      "url" : "https://apps.apple.com/us/developer/mark-perryman/id1553394535"
+    }    
   }
 ]
